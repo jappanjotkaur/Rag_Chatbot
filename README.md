@@ -23,7 +23,9 @@ This project uses a fine-tuned local LLM (`tinyllama`) and a structured dataset 
 - Automatically persists and reuses vector database  
 
 ---
-
+## Demo video
+Link for the demo video: https://drive.google.com/file/d/1vMRaKuT76kxzsNrtvJdsJoAlR9WFFnum/view?usp=sharing
+---
 ## Project Structure
 
 ```
